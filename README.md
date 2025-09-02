@@ -11,3 +11,13 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # react-router-dom
+
+React Router Dom - https://www.npmjs.com/package/react-router-dom?activeTab=readme
+
+https://reactrouter.com/home
+
+ootstrap and Vite - https://getbootstrap.com/docs/5.3/getting-started/vite/
+
+Descrição repo: React, react-router-dom, boostrap, components, form, eventos, objeto, useState, useEffect, Json, axios
+
+https://dontpad.com/fs25-sul/react
